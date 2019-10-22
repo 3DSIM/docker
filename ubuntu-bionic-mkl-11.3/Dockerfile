@@ -1,6 +1,6 @@
 # Start with Ubuntu base image
 FROM buildpack-deps:bionic
-MAINTAINER Pete Krull <pete.krull@3dsim.com>
+MAINTAINER Rey DeLeon <rey.deleon@3dsim.com>
 
 ENV MKL_VER=l_mkl_11.3.2.181
 
